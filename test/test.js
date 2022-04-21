@@ -1,6 +1,3 @@
-// var expect = require('chai').expect;
-// var request = require('request');
-// const { data } = require('../config.ts')
 import { expect } from 'chai';
 import request from 'request';
 import {data} from '../test/config.js';
